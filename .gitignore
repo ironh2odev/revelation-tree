@@ -1,0 +1,20 @@
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Environment
+.env
+.venv/
+venv/
+
+# User data
+data/chroma_db/
+data/commentary/
+data/*.json
+
+# Streamlit & logs
+*.log
+.streamlit/
+
+# VSCode/IDE
+.vscode/
